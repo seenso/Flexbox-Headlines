@@ -16,8 +16,8 @@ To designate an element as a flex container, set the element’s display propert
   -center — all items will be positioned in order, in the center of the parent container with no extra space before, between, or after them.
   -space-around — items will be positioned with equal space before and after each item, resulting in double the space between elements.
   -space-between — items will be positioned with equal space between them, but no extra space before the first or after the last elements.
--align-items
--flex-grow
+* align-items
+- flex-grow
 -flex-shrink
 -flex-basis
 -flex
